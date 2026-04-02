@@ -1,0 +1,2 @@
+# opencv_logo_split_join
+基于python OpenCV图像处理技术对logo进行处理
